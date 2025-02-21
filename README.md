@@ -1,6 +1,7 @@
 
 # 💫 About Me:
 👋 Hi, I'm Zeynep <br>📚 I'm Photonics student at IZTECH.<br>✉️ You can contact me: pinsmileveryday0@gmail.com
+I'm currently
 
 
 ## 🌐 Socials:
@@ -20,5 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=zeynepgundogdu0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<img src = " https://miro.medium.com/v2/resize:fit:910/1*jbz6ImV3RT_vNzSvSHW_Fg.png">
+![Image](https://github.com/user-attachments/assets/a37482ec-e0f8-43e3-ab2e-9cf6f1f913aa)
