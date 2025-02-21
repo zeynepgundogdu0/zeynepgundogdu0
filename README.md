@@ -1,6 +1,4 @@
 
-
-# YetgenPythonCore2025
 # 💫 About Me:
 👋 Hi, I'm Zeynep <br>📚 I'm Photonics student at IZTECH.<br>✉️ You can contact me: pinsmileveryday0@gmail.com
 
@@ -23,4 +21,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-< img src = " https://miro.medium.com/v2/resize:fit:910/1*jbz6ImV3RT_vNzSvSHW_Fg.png" >
+<img src = " https://miro.medium.com/v2/resize:fit:910/1*jbz6ImV3RT_vNzSvSHW_Fg.png">
