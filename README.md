@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 👋 Hi, I'm Zeynep <br>📚 I'm Photonics student at IZTECH.<br>✉️ You can contact me: pinsmileveryday0@gmail.com
-I'm currently
+
 
 
 ## 🌐 Socials:
